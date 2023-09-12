@@ -1,2 +1,3 @@
-Leader: Faris
-Staff: -
+Leader: Faris R
+Staff 1: RR
+Staff 2: NN 
